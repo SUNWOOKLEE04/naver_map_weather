@@ -1,16 +1,10 @@
-# naver_map_weather
+1 네이버 지도를 화면에 나타냄.
+2 지도에 현제 위치 표시
+3 특정 위치(전국 8도 정도)에 마커를 표시
+4 현제 위치에 날씨를 상시 표시
+5 마커를 클릭시 팝업으로 클릭한 지역의 날씨를 알려줌
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[API 참고]
+https://www.ncloud.com/product/applicationService/maps - 네이버 지도
+https://pub.dev/packages/flutter_naver_map
+https://openweathermap.org/ - 날씨
